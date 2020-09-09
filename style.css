@@ -21,6 +21,7 @@ header {
     /* height: 150px; */
     width: 100%;
     padding: 25px;
+    margin-bottom: 20px;
 }
 
 .asideleft {
@@ -28,7 +29,6 @@ header {
     float: left;
     width: 20%;
     padding: 10px;
-    margin-top: 10px;
 
 }
 
@@ -36,10 +36,9 @@ main {
     background-color: #cc33ff;
     float: left;
     width: calc(60% - 20px);
-    padding: 10px;
+    padding: 15px;
     margin left: 10px;
     margin right: 10px;
-    margin top:10px;
 }
 
 .asideright {
@@ -63,4 +62,5 @@ footer {
     background-color: #66ffff;
     float: left;
     width: 100%;
+    margin: 20px;
 }
